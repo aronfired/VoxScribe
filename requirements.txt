@@ -1,0 +1,6 @@
+pydub
+noisereduce
+soundfile
+torchaudio
+transformers
+tk
