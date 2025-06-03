@@ -1,6 +1,6 @@
-# Transcriptor
+# VoxScribe
 
-**Transcriptor** is an audio transcription software implemented in Python. This project leverages the [Wav2Vec2](https://huggingface.co/models?pipeline_tag=automatic-speech-recognition) model from Hugging Face to automatically convert audio files (e.g., lecture recordings) into text. It also includes a simple graphical user interface (GUI) built with Tkinter that allows users to verify and correct the transcriptions, saving user feedback for future improvements.
+**VoxScribe** is an audio transcription software implemented in Python. This project leverages the [Wav2Vec2](https://huggingface.co/models?pipeline_tag=automatic-speech-recognition) model from Hugging Face to automatically convert audio files (e.g., lecture recordings) into text. It also includes a simple graphical user interface (GUI) built with Tkinter that allows users to verify and correct the transcriptions, saving user feedback for future improvements.
 
 ## Features
 
